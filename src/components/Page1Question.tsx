@@ -95,7 +95,7 @@ export const Page1Question: React.FC<Page1Props> = ({ onSayYes }) => {
 
         {/* Main Heading Question */}
         <h1 className="text-2xl sm:text-3xl md:text-4xl font-bold text-slate-800 my-4 tracking-tight leading-snug">
-          Wanna have a date with me, baby? <span className="text-pink-500 inline-block animate-pulse-heart">❤️</span>
+          Wanna have a date with me, Showilee? <span className="text-pink-500 inline-block animate-pulse-heart">❤️</span>
         </h1>
 
         <p className="text-slate-500 text-sm sm:text-base font-normal max-w-xs mb-8">
